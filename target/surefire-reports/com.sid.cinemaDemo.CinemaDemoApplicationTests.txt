@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sid.cinemaDemo.CinemaDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.421 s - in com.sid.cinemaDemo.CinemaDemoApplicationTests
